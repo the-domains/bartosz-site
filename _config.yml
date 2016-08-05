@@ -1,4 +1,3 @@
-layout_spectrum: 0.08719767606817186
 typography_spectrum: 0.28001578873954713
 color:
   brandStrength: 0.6771059464663267
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.08719767606817186
 name: Bartosz Site
 title: Welcome to my new site
+description: Here it is for the crazy ones...
