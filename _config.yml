@@ -1,0 +1,14 @@
+layout_spectrum: 0.08719767606817186
+typography_spectrum: 0.28001578873954713
+color:
+  brandStrength: 0.6771059464663267
+  lightness: 0.07293963641859591
+  saturation: 0.24060949264094234
+  rhythmicContrast: 0.04863375169225037
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Bartosz Site
